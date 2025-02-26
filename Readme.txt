@@ -1,0 +1,1 @@
+Here I have basic neural networks algorithms and randomforest models. some of the archive are using the same dataset but with a different approach.
